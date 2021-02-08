@@ -1,0 +1,6 @@
+2020-12-07T03:55:06+00:00 CRITICAL syntax error, unexpected '"section"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /Users/waynevibhor/Documents/Projects/texas/wp-content/themes/custom-theme/functions.php on line 227
+
+2020-12-07T03:55:06+00:00 CRITICAL syntax error, unexpected '"section"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /Users/waynevibhor/Documents/Projects/texas/wp-content/themes/custom-theme/functions.php on line 227
+
+2020-12-07T05:13:59+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in /Users/waynevibhor/Documents/Projects/texas/wp-content/themes/custom-theme/sidebar.php on line 60
+

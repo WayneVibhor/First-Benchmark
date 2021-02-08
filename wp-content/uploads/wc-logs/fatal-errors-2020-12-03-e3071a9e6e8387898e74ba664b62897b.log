@@ -1,0 +1,22 @@
+2020-12-03T04:33:22+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in /Users/waynevibhor/Documents/Projects/texas/wp-content/themes/custom-theme/functions.php on line 212
+
+2020-12-03T04:34:08+00:00 CRITICAL syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /Users/waynevibhor/Documents/Projects/texas/wp-content/themes/custom-theme/functions.php on line 231
+
+2020-12-03T04:35:23+00:00 CRITICAL syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /Users/waynevibhor/Documents/Projects/texas/wp-content/themes/custom-theme/functions.php on line 231
+
+2020-12-03T04:35:56+00:00 CRITICAL syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /Users/waynevibhor/Documents/Projects/texas/wp-content/themes/custom-theme/functions.php on line 232
+
+2020-12-03T04:36:32+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) in /Users/waynevibhor/Documents/Projects/texas/wp-content/themes/custom-theme/functions.php on line 221
+
+2020-12-03T04:37:18+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) in /Users/waynevibhor/Documents/Projects/texas/wp-content/themes/custom-theme/functions.php on line 221
+
+2020-12-03T04:38:54+00:00 CRITICAL syntax error, unexpected '.', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /Users/waynevibhor/Documents/Projects/texas/wp-content/themes/custom-theme/functions.php on line 221
+
+2020-12-03T04:39:18+00:00 CRITICAL syntax error, unexpected '.', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /Users/waynevibhor/Documents/Projects/texas/wp-content/themes/custom-theme/functions.php on line 221
+
+2020-12-03T04:41:11+00:00 CRITICAL syntax error, unexpected '?>' in /Users/waynevibhor/Documents/Projects/texas/wp-content/themes/custom-theme/functions.php on line 221
+
+2020-12-03T04:41:19+00:00 CRITICAL syntax error, unexpected '?>' in /Users/waynevibhor/Documents/Projects/texas/wp-content/themes/custom-theme/functions.php on line 221
+
+2020-12-03T04:51:28+00:00 CRITICAL syntax error, unexpected 'alkjhskjas' (T_STRING) in /Users/waynevibhor/Documents/Projects/texas/wp-content/themes/custom-theme/functions.php on line 217
+
